@@ -1,0 +1,5 @@
+{
+  "name": "Travel Agent Workflow",
+  "description": "An AI-powered workflow agent that takes travel photos and logs, then automatically selects the best photos and writes tailored copy for WeChat, Red (Xiaohongshu), Weibo, and Douyin using Gemini.",
+  "requestFramePermissions": []
+}
